@@ -1,4 +1,4 @@
-#Sat Nov 06 12:32:01 EET 2021
+#Sun Nov 07 12:34:54 EET 2021
 base.2=/home/mohamed/AndroidStudioProjects/TestJWT/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
 path.2=1/classes.dex
 base.1=/home/mohamed/AndroidStudioProjects/TestJWT/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex

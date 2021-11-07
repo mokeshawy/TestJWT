@@ -30,11 +30,11 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("readMsg", readToken()!!)
 
-        utils.getRolesFromJWT(" JWT KEY ")
+        utils.getRolesFromJWT(readToken().toString())
     }
 
     @RequiresApi(Build.VERSION_CODES.O)
     fun readToken(): String? {
-       return Utils().getDecodedJwtGetBody("JWT KEY")
+       return Utils().getDecodedJwtGetBody("JWT key")
     }
 }
